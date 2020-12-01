@@ -1,0 +1,64 @@
+#about .container .row .col-lg-6 {
+  padding-right: 7px !important;
+  padding-left: 7px !important;
+}
+
+.about-me-color {
+  font-size: 0.9rem;
+  color: #FF4C60;
+}
+
+/* .padding-s {
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+} */
+
+.s-box {
+  background-color: #302f4e !important;
+  padding: 20px;
+}
+
+#about .container .row .col-lg-6 .row .col-lg-6 .s-box h3 i{
+  color:#FFD15C  !important;
+  height: 1.3rem;
+}
+
+#about .container .row .col-lg-6 .row .col-lg-6 .s-box h3 svg{
+  color:#FFD15C  !important;
+  height: 1.3rem;
+}
+
+#about .container .row .col-lg-6 .row .col-lg-6 .s-box:hover h3 i{
+  color:#ffffff !important;
+  height: 1.3rem;
+}
+
+#about .container .row .col-lg-6 .row .col-lg-6 .s-box:hover h3 svg{
+  color:#ffffff !important;
+  height: 1.3rem;
+}
+#about .container .row .col-lg-6 .row .col-lg-6 .s-box em{
+  font-style: normal;
+}
+.s-box:hover {
+  background-color: #FF4C60 !important;
+  padding: 20px;
+  -webkit-box-shadow: 0px 5px 20px 0px rgba(249, 123, 139, 0.5);
+  box-shadow: 0px 5px 20px 0px rgba(249, 123, 139, 0.5);
+}
+
+.s-l-t {
+  border-radius: 50px 50px 0 50px;
+}
+
+.s-r-t {
+  border-radius: 50px 50px 50px 0;
+}
+
+.s-l-b {
+  border-radius: 50px 0 50px 50px;
+}
+
+.s-r-b {
+  border-radius: 0 50px 50px 50px;
+}
